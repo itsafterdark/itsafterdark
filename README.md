@@ -1,4 +1,6 @@
 <p align="center">
+  <p align="center"> <img src="https://hits.sh/github.com/itsafterdark.svg?style=flat-plastic&label=tojikuna%20&Count=1&color=000000&labelColor=ad868a">
+  <tr>
 <p> 
   <p align="center">
 <img src="https://file.garden/aD-jsL8SzQvp8mjK/Untitled28_20261016093808.png" width="650">
